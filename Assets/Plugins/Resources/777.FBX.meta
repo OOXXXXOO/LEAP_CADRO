@@ -1,0 +1,206 @@
+fileFormatVersion: 2
+guid: 93346e0e1f29ca849b32e539c7bf66ba
+timeCreated: 1463034885
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Aileron
+    100004: Aileron2
+    100006: Aileron3
+    100008: Aileron4
+    100010: Aileron5
+    100012: Aileron6
+    100014: Aileron7
+    100016: Aileron8
+    100018: Back_pan18
+    100020: Back_pan19
+    100022: Back_pan20
+    100024: Back_panel
+    100026: Body
+    100028: Engine_cas
+    100030: Front_pa24
+    100032: Front_pane
+    100034: gearup_b17
+    100036: gearup_b22
+    100038: gearup_bar
+    100040: sub01
+    100042: sub02
+    100044: Tail_fin
+    100046: Turbine
+    100048: Turbine2
+    100050: Weel3
+    100052: Weel802
+    100054: Weel803
+    400000: //RootNode
+    400002: Aileron
+    400004: Aileron2
+    400006: Aileron3
+    400008: Aileron4
+    400010: Aileron5
+    400012: Aileron6
+    400014: Aileron7
+    400016: Aileron8
+    400018: Back_pan18
+    400020: Back_pan19
+    400022: Back_pan20
+    400024: Back_panel
+    400026: Body
+    400028: Engine_cas
+    400030: Front_pa24
+    400032: Front_pane
+    400034: gearup_b17
+    400036: gearup_b22
+    400038: gearup_bar
+    400040: sub01
+    400042: sub02
+    400044: Tail_fin
+    400046: Turbine
+    400048: Turbine2
+    400050: Weel3
+    400052: Weel802
+    400054: Weel803
+    2300000: Aileron
+    2300002: Aileron2
+    2300004: Aileron3
+    2300006: Aileron4
+    2300008: Aileron5
+    2300010: Aileron6
+    2300012: Aileron7
+    2300014: Aileron8
+    2300016: Back_pan18
+    2300018: Back_pan19
+    2300020: Back_pan20
+    2300022: Back_panel
+    2300024: Body
+    2300026: Front_pa24
+    2300028: Front_pane
+    2300030: gearup_b17
+    2300032: gearup_b22
+    2300034: gearup_bar
+    2300036: sub01
+    2300038: sub02
+    2300040: Tail_fin
+    2300042: Turbine
+    2300044: Turbine2
+    2300046: Weel3
+    2300048: Weel802
+    2300050: Weel803
+    3300000: Aileron
+    3300002: Aileron2
+    3300004: Aileron3
+    3300006: Aileron4
+    3300008: Aileron5
+    3300010: Aileron6
+    3300012: Aileron7
+    3300014: Aileron8
+    3300016: Back_pan18
+    3300018: Back_pan19
+    3300020: Back_pan20
+    3300022: Back_panel
+    3300024: Body
+    3300026: Front_pa24
+    3300028: Front_pane
+    3300030: gearup_b17
+    3300032: gearup_b22
+    3300034: gearup_bar
+    3300036: sub01
+    3300038: sub02
+    3300040: Tail_fin
+    3300042: Turbine
+    3300044: Turbine2
+    3300046: Weel3
+    3300048: Weel802
+    3300050: Weel803
+    4300000: Body
+    4300002: Aileron6
+    4300004: Aileron5
+    4300006: Aileron
+    4300008: Aileron2
+    4300010: Aileron3
+    4300012: Aileron4
+    4300014: Aileron7
+    4300016: Aileron8
+    4300018: Tail_fin
+    4300020: sub01
+    4300022: sub02
+    4300024: Turbine
+    4300026: Turbine2
+    4300028: Weel802
+    4300030: gearup_bar
+    4300032: Back_panel
+    4300034: Weel803
+    4300036: gearup_b17
+    4300038: Back_pan18
+    4300040: Back_pan19
+    4300042: Back_pan20
+    4300044: Weel3
+    4300046: gearup_b22
+    4300048: Front_pane
+    4300050: Front_pa24
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

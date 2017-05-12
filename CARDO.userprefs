@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\LeapCADRO\sence3\control\switchscript.cs">
+    <Files>
+      <File FileName="Assets\LeapCADRO\sence3\control\switchscript.cs" Line="1" Column="1" />
+      <File FileName="Assets\LeapCADRO\sence3\control\ray.cs" Line="37" Column="1" />
+      <File FileName="Assets\LeapCADRO\sence3\ButtonTrigger\Switch\SwitchscriptTrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets\LeapCADRO\sence3\ButtonTrigger\Menu\MenuTrigger.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

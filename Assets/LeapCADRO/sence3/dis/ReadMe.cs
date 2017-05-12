@@ -1,0 +1,1 @@
+﻿//把add_position_control脚本挂在 main Camera 上，别的脚步放着就好，在add_position_control脚本的Inspector 视图里有可以调节散开速度和散开时间的属性，在add_position_control脚本里我是通过Find（）来找父物体的，需要改动
